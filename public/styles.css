@@ -1,0 +1,117 @@
+.bodye {
+    /* background-color: rgb(230, 175, 123);
+    font-family:monospace;
+    font-size: x-large; */
+    /* From https://css.glass */
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(40px);
+-webkit-backdrop-filter: blur(5px);
+border: 10px solid rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+    margin-top: "150px";
+    text-align: "center";
+}
+
+.btn {
+    background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+color: black;
+    border: 2px solid black;
+}
+
+input {
+    background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+    border-radius: 20px;
+    padding: 10px 10px;
+    border: 2px solid brown;
+    width: 75%;
+}
+
+.block {
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(40px);
+    border-radius: 10px;
+    border:  10px solid rgba(0, 0, 0, 0.3);
+    width: fit-content;
+    margin: 20px auto;
+    padding: 25px 25px;
+    
+        
+}
+
+.center{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+   height: 100vh;
+   min-height : '100vh';
+    text-align: center;
+    
+    
+    padding-top: 20%;
+    font-size: larger;
+    color: blueviolet;
+}
+.theory{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+   height: 100vh;
+   min-height : '100vh';
+    text-align: center;
+    
+    
+    padding-top: 20%;
+    font-size: larger;
+    color: blueviolet;
+}
+
+.procedure{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+   height: 100vh;
+   min-height : '100vh';
+    
+    
+    padding-top: 5%;
+    font-size: medium;
+    color: blueviolet;
+}
+
+.assignment{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    /* background-color: aquamarine; */
+    height: 100vh;
+    min-height : '100vh';
+     
+     
+     padding-top: 5%;
+     font-size: medium;
+     color: blueviolet;
+ }
+
+ .bg2{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    height: 100vh;
+    min-height : '100vh';
+    text-align: left;
+    padding-top: 3%;
+    
+    padding-bottom: 60%;
+ }
+ .title{
+    text-align: left;
+    padding-left: 1%;
+    padding-right: 10%;
+    color:blue;
+ }
+
+ .tab{
+    text-align: center;
+    text-decoration: wavy;
+    color: #FBAB7E;
+ }
